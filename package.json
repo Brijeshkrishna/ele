@@ -1,0 +1,35 @@
+{
+    "name": "ele",
+    "displayName": "ele",
+    "description": "The VS code ele theme 😶",
+    "version": "1.0.0",
+    "publisher": "brijeshkrishna",
+    "repository":{
+        "type": "git",
+        "url": "git://github.com/brijeshkrishna/ele"
+    },
+    "keywords": [
+        "theme",
+        "vs",
+        "code",
+        "ele",
+        "dark theme",
+        "brijeshkrishna"
+    ],
+    
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ele",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ele-color-theme.json"
+            }
+        ]
+    }
+}
