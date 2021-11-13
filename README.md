@@ -2,7 +2,7 @@
 
 
 
-[![N|Solid](https://raw.githubusercontent.com/Brijeshkrishna/ele-theme/88ec9c668fcbca0eae33a3165272c1be7b03e05c/ele-1.png)](https://raw.githubusercontent.com/Brijeshkrishna/ele-theme/88ec9c668fcbca0eae33a3165272c1be7b03e05c/ele-1.png)
+[![N|Solid](https://github.com/Brijeshkrishna/ele/blob/main/img/ele-1.png?raw=true)](https://github.com/Brijeshkrishna/ele/blob/main/img/ele-1.png?raw=true)
 
 
 

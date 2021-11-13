@@ -1,6 +1,7 @@
 {
   "name": "ele",
   "type": "dark",
+  "icon": "https://github.com/Brijeshkrishna/ele/blob/main/img/logo.png?raw=true",
   "colors": {
 	  // imported from github themes https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
     "focusBorder": "#005cc5",
