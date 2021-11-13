@@ -2,9 +2,9 @@
     "name": "ele",
     "displayName": "ele",
     "description": "The VS code ele theme 😶",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "brijeshkrishna",
-    "repository":{
+    "repository": {
         "type": "git",
         "url": "git://github.com/brijeshkrishna/ele"
     },
@@ -14,9 +14,7 @@
         "code",
         "ele",
         "dark theme"
-      
     ],
-   
     "icon": "https://github.com/Brijeshkrishna/ele/blob/main/logo.png?raw=true",
     "engines": {
         "vscode": "^1.62.0"
