@@ -1,7 +1,11 @@
 {
     "name": "ele",
-    "displayName": "ele",
+    "displayName": "Ele",
     "description": "The VS code ele theme 😶",
+    "author": {
+        "name": "bijesh krishna",
+        "url": "https://github.io/brijeshkrishna/home"},
+
     "version": "1.0.1",
     "publisher": "brijeshkrishna",
     "repository": {
