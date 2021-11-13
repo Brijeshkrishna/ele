@@ -15,7 +15,7 @@
         "ele",
         "dark theme"
     ],
-    "icon": "https://github.com/Brijeshkrishna/ele/blob/main/logo.png?raw=true",
+    "icon": "./img/logoo.png",
     "engines": {
         "vscode": "^1.62.0"
     },
